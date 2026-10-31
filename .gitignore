@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+outputs/
+*.opju
+*.opj
+*.pdf
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.csv

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Origin Screenshot Replication"
+  short_description: "Read and rebuild graphs from screenshots in Origin"
+  brand_color: "#2E75B6"
+  default_prompt: "Use $origin-screenshot-replication to digitize this graph image, explain the Origin workflow, and create a verified editable Origin project."
+policy:
+  allow_implicit_invocation: true
